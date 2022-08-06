@@ -1,5 +1,5 @@
 # Spam-classification-using-ML-and-DL
-Spam classification using traditional ML classifiers and using DL with GloVe embedding
+Spam classification (text classification which is one of the most common natural language processing tasks) using traditional ML classifiers and using DL with GloVe embedding
 
 * Dataset link : https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 * Glove model : https://nlp.stanford.edu/projects/glove/  (download glove.6B.100d.txt)
