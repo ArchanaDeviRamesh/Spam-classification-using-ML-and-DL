@@ -3,6 +3,8 @@ Spam classification (text classification which is one of the most common natural
 
 * Dataset link : https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 * Glove model : https://nlp.stanford.edu/projects/glove/  (download glove.6B.100d.txt)
+* Libraries used : pandas, numpy, matplotlib, sklearn, nltk, tensorflow
+ 
 * Basic preprocessing steps on the dataset: Punctuation removal, stop words removal and stemming 
 
 * Two classification models were developed:
